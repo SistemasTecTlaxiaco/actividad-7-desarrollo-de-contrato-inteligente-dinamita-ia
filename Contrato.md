@@ -81,8 +81,13 @@ stellar contract build
 
 <img width="910" height="392" alt="image" src="https://github.com/user-attachments/assets/8d34e494-8ffc-4a23-8a85-abcd7c328d89" />
 
-###Segunda actividad. Despliegue a tesnet.
+### Segunda actividad. Prueba de test, con cargo test, para validar que el contrato funciona correctamente.
+
+<img width="1111" height="984" alt="image" src="https://github.com/user-attachments/assets/83e97812-cb5c-453e-8bc8-e6abb206b2a9" />
+
+# Despligue de tesnet.
 <img width="1134" height="828" alt="image" src="https://github.com/user-attachments/assets/bef64747-c620-4a3c-9377-ec941a13b5d8" />
 
+# Prueba de que el contrato se ejecutó en tesnet
 <img width="981" height="893" alt="image" src="https://github.com/user-attachments/assets/217ec7a2-0ebf-4d7d-9584-a285dc5c49c2" />
 
